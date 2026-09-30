@@ -1,1 +1,5 @@
-4 Surfaces with description and navigation
+4 Surfaces with description and navigation:
+ - Web Context
+ - Popup
+ - Side Panel
+ - Navigation
