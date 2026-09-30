@@ -2,4 +2,4 @@
  - Web Context
  - Popup
  - Side Panel
- - Navigation
+ - Options
